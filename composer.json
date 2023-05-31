@@ -1,0 +1,15 @@
+{
+    "name": "roberto/aluraplay",
+    "autoload": {
+        "psr-4": {
+            "Roberto\\Aluraplay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberto",
+            "email": "endriosrobert@gmail.com"
+        }
+    ],
+    "require": {}
+}
